@@ -40,7 +40,7 @@ const Auth = () => {
         Swal.fire({
           position: "top-end",
           icon: "error",
-          title: "Wrong Email or Password !",
+          title: "Wrong Email or Password ! ",
           showConfirmButton: false,
           timer: 1500,
         });
