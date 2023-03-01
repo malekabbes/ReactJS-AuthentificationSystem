@@ -1,0 +1,17 @@
+.panel {
+  margin: 0 auto;
+  width: 45%;
+  margin-top: 10rem;
+  border-radius: 25px;
+}
+.p_alert {
+  margin: 0.5rem 0;
+  position: relative;
+  border-radius: 25px;
+}
+.p_input {
+  margin-bottom: 0.8rem;
+}
+.p_label {
+  padding: 0.4rem;
+}
